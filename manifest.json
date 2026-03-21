@@ -431,7 +431,17 @@
         "aggregate/ast/d370fee313626b663ac080cc157277f058c962b4.nq.gz"
       ],
       "lsp": "aggregate/lsp/d370fee313626b663ac080cc157277f058c962b4.nq.gz",
-      "repolex": "aggregate/repolex/d370fee313626b663ac080cc157277f058c962b4.nq.gz"
+      "repolex": "aggregate/repolex/d370fee313626b663ac080cc157277f058c962b4.nq.gz",
+      "dep": "dep/d370fee313626b663ac080cc157277f058c962b4.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "junit:junit",
+          "packageVersion": "4.9",
+          "githubOrg": "KentBeck",
+          "githubRepo": "junit",
+          "githubCommit": "HEAD"
+        }
+      ]
     }
   ],
   "commit": "commit/commit.nq.gz",
