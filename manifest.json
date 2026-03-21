@@ -216,7 +216,17 @@
       ],
       "lsp": "aggregate/lsp/046630daf4b8d124d8529a66e72ec659ed4c9d3d.nq.gz",
       "repolex": "aggregate/repolex/046630daf4b8d124d8529a66e72ec659ed4c9d3d.nq.gz",
-      "tag": "1.2.3"
+      "tag": "1.2.3",
+      "dep": "dep/046630daf4b8d124d8529a66e72ec659ed4c9d3d.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "junit:junit",
+          "packageVersion": "4.9",
+          "githubOrg": "KentBeck",
+          "githubRepo": "junit",
+          "githubCommit": "HEAD"
+        }
+      ]
     },
     {
       "commit": "d370fee313626b663ac080cc157277f058c962b4",
