@@ -221,10 +221,12 @@
       "dependencies": [
         {
           "packageName": "junit:junit",
-          "packageVersion": "4.9",
-          "githubOrg": "KentBeck",
-          "githubRepo": "junit",
-          "githubCommit": "HEAD"
+          "ecosystem": "MAVEN",
+          "version": "3.8.2",
+          "githubOrg": "junit-team",
+          "githubRepo": "junit4",
+          "githubUrl": "https://github.com/junit-team/junit4",
+          "source": "build_file:pom.xml"
         }
       ]
     },
